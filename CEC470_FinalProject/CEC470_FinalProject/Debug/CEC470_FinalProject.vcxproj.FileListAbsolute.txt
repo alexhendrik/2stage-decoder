@@ -1,0 +1,3 @@
+C:\Users\Alex\source\repos\CEC470_FinalProject\Debug\mem_in.txt
+C:\Users\Alex\source\repos\CEC470_FinalProject\Debug\mem_out.txt
+C:\Users\Alex\source\repos\CEC470_FinalProject\Debug\mem_in_edit.txt
