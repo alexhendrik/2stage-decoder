@@ -45,7 +45,7 @@ int main(int argc, char* argv[])
         }
         catch (...) {
             cout << inst << "\n";
-            throw "something is boof dog";
+            throw "Something went very wrong";
         }
     }
 
