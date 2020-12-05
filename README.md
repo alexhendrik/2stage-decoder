@@ -4,6 +4,10 @@ CEC 470
 Fall 2020**  
 **Tyler Wise & Oleksandr Hendrik**
 
+A text file with only the fetch and execute functions can be found [here](https://github.com/alexhendrik/2stage-decoder/blob/main/2functionsOnly.txt).
+
+The complete C++ testbench can be found [here](https://github.com/alexhendrik/2stage-decoder/blob/main/CEC470_FinalProject/CEC470_FinalProject/CEC470_FinalProject.cpp).
+
 ### 1. What opcode will blank memory initialized to 0x00 look like to the processor?
 
 0x00 would be treated as a memory op to store the value of ACC into the address specified by the operand (i.e. the next 16 bits), which in this case would be memory location 0.
